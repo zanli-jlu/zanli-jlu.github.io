@@ -16,17 +16,17 @@
       biography:
         "目前就职于吉林大学通信工程学院，教授，博士生导师，唐敖庆青年学者；信息产业部信息科学重点实验室负责人；入选吉林省青年成长科技计划，吉林大学优秀青年教师（重点资助）。曾任阿里巴巴资深算法工程师负责传感器融合定位，北京波尔通信技术研发总监。2016年在瑞士伯尔尼大学获得博士学位（summa cum laude，最高荣誉毕业生），当年唯一获得 Fritz-Kutter Award 博士毕业生（瑞士计算机博士最佳论文）。请对无线通信、智能感知、频谱感知方向感兴趣的同学联系我。我们将一起合作进行国际前沿的科学研究，并提供弹性工作时间、国际交流和公司实习机会。",
       research: [
-        ["教授", "吉林大学", "2025年9月 - 今"],
+        ["教授", "吉林大学", "2025年 - 今"],
         ["博士生导师", "吉林大学", "2024年 - 今"],
-        ["副教授", "吉林大学", "2019年9月 - 2025年9月"],
-        ["讲师", "吉林大学", "2017年7月 - 2019年9月"],
-        ["技术研发总监", "北京波尔通信", "2020年4月 - 2023年5月"],
-        ["资深算法工程师", "阿里巴巴集团", "2016年7月 - 2017年5月"]
+        ["副教授", "吉林大学", "2019年 - 2025年"],
+        ["讲师", "吉林大学", "2017年 - 2019年"],
+        ["技术研发总监", "北京波尔通信", "2020年 - 2023年"],
+        ["资深算法工程师", "阿里巴巴集团", "2016年 - 2017年"]
       ],
       education: [
-        ["博士-计算机科学（最高荣誉毕业生，瑞士最佳博士论文）", "瑞士伯尔尼大学", "2012年4月 - 2016年4月"],
-        ["硕士-通信与信息技术", "德国不来梅大学", "2009年4月 - 2011年12月"],
-        ["学士-电子信息工程", "山东大学", "2005年9月 - 2009年6月"]
+        ["博士-计算机科学（最高荣誉毕业生，瑞士最佳博士论文）", "瑞士伯尔尼大学", "2012年 - 2016年"],
+        ["硕士-通信与信息技术", "德国不来梅大学", "2009年 - 2011年"],
+        ["学士-电子信息工程", "山东大学", "2005年 - 2009年"]
       ],
       projects: [
         ["面向智慧消防的毫米波人体目标与状态识别系统开发", "吉林省科技厅重点研发（企业关键技术），参加单位负责人", "2026 - 2028"],
@@ -78,17 +78,17 @@
       biography:
         "Prof. Zan Li is currently with the College of Communication Engineering, Jilin University, where he serves as Professor and Ph.D. Supervisor. He is a Tang Aoqing Young Scholar and leads the Key Laboratory of Information Science under the Ministry of Industry and Information Technology. He was selected for the Jilin Province Young Talent Growth Program and the Jilin University Outstanding Young Faculty Program. He previously worked as a Senior Algorithm Engineer at Alibaba on sensor-fusion positioning and served as R&D Director at Beijing Bo'er Communication. In 2016, he received his Ph.D. from the University of Bern with summa cum laude distinction and was the sole recipient of the Fritz Kutter Award for the best computer science dissertation in Switzerland. Students interested in wireless communications, intelligent sensing, and spectrum sensing are welcome to get in touch. The group offers flexible working arrangements, international collaboration, and industry internship opportunities.",
       research: [
-        ["Professor", "Jilin University", "Sep 2025 - Present"],
+        ["Professor", "Jilin University", "2025 - Present"],
         ["Ph.D. Supervisor", "Jilin University", "2024 - Present"],
-        ["Associate Professor", "Jilin University", "Sep 2019 - Sep 2025"],
-        ["Lecturer", "Jilin University", "Jul 2017 - Sep 2019"],
-        ["R&D Director", "Beijing Bo'er Communication", "Apr 2020 - May 2023"],
-        ["Senior Algorithm Engineer", "Alibaba Group", "Jul 2016 - May 2017"]
+        ["Associate Professor", "Jilin University", "2019 - 2025"],
+        ["Lecturer", "Jilin University", "2017 - 2019"],
+        ["R&D Director", "Beijing Bo'er Communication", "2020 - 2023"],
+        ["Senior Algorithm Engineer", "Alibaba Group", "2016 - 2017"]
       ],
       education: [
-        ["Ph.D. in Computer Science (summa cum laude, Best Dissertation in Switzerland)", "University of Bern, Switzerland", "Apr 2012 - Apr 2016"],
-        ["M.Sc. in Communication and Information Technology", "Bremen University, Germany", "Apr 2009 - Dec 2011"],
-        ["B.Sc. in Electronics and Information Engineering", "Shandong University", "Sep 2005 - Jun 2009"]
+        ["Ph.D. in Computer Science (summa cum laude, Best Dissertation in Switzerland)", "University of Bern, Switzerland", "2012 - 2016"],
+        ["M.Sc. in Communication and Information Technology", "Bremen University, Germany", "2009 - 2011"],
+        ["B.Sc. in Electronics and Information Engineering", "Shandong University", "2005 - 2009"]
       ],
       projects: [
         ["Millimeter-Wave Human Target and State Recognition System for Smart Fire Safety", "Jilin Province Key R&D Program (Enterprise Key Technology), Participating Unit PI", "2026 - 2028"],
